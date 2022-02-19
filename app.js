@@ -18,7 +18,6 @@ while (full<100){
 // styling css with js:
 const text= document.querySelector(".title");
 const animation= document.querySelector(".myAnimation");
-
 function myAnimation() {
     let id = null;
     const elem = document.getElementById("animate");   
